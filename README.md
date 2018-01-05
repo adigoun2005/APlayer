@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">APlayer</h1>
 
-> Wow, such a lovely HTML5 music player
+> Waouh! Un si beau lecteur de musique en HTML 5!
 
 [![npm](https://img.shields.io/npm/v/aplayer.svg?style=flat-square)](https://www.npmjs.com/package/aplayer)
 [![npm](https://img.shields.io/npm/l/aplayer.svg?style=flat-square)](https://github.com/MoePlayer/APlayer/blob/master/LICENSE)
@@ -20,19 +20,19 @@
 
 ![image](https://i.imgur.com/JDrJXCr.png)
 
-APlayer is a lovely HTML5 music player to help people build audio easily.
+APlayer est un merveilleux lecteur de musique en HTML5 pour vous aider a construire votre audio facilement.
 
-**APlayer supports:**
+**APlayer supporte:**
 
-- Media formats
+- Formats Multimedia
 	- MP4 H.264 (AAC or MP3)
 	- WAVE PCM
 	- Ogg Theora Vorbis
-- Features
+- Fonctionalites
 	- Playlist
 	- Lyrics
 
-Using APlayer on your project? [Let me know!](https://github.com/MoePlayer/APlayer/issues/79)
+Vous utilisez APlayer dans votre projet? [Informez-moi!](https://github.com/MoePlayer/APlayer/issues/79)
 
 **[Demo](http://aplayer.js.org)**
 
@@ -44,8 +44,7 @@ Using APlayer on your project? [Let me know!](https://github.com/MoePlayer/APlay
 $ npm install aplayer --save
 ```
 
-## Quick Start
-
+## Pour commencer
 ```html
 <div id="aplayer1" class="aplayer"></div>
 <script src="dist/APlayer.min.js"></script>
@@ -62,16 +61,15 @@ var ap = new APlayer({
 });
 ```
 
-## Usage
+## Utilisation
 
-[Read the Docs](http://aplayer.js.org/docs)
+[Lire la documentation](http://aplayer.js.org/docs)
 
-## Join the Discussion
+## Rejoignez la discussion
+- [Telegram du Groupe](https://t.me/adplayer)
+- [QQ du Groupe](https://shang.qq.com/wpa/qunwpa?idkey=bf22213ae0028a82e5adf3f286dfd4f01e0997dc9f1dcd8e831a0a85e799be17): 415835947
 
-- [Telegram Group](https://t.me/adplayer)
-- [QQ Group](https://shang.qq.com/wpa/qunwpa?idkey=bf22213ae0028a82e5adf3f286dfd4f01e0997dc9f1dcd8e831a0a85e799be17): 415835947
-
-## Related Projects
+## Projets connexes
 
 - [APlayer-Typecho-Plugin](https://github.com/zgq354/APlayer-Typecho-Plugin)
 - [hexo-tag-aplayer](https://github.com/grzhan/hexo-tag-aplayer)
@@ -86,7 +84,7 @@ var ap = new APlayer({
 - [APlayerHandle](https://github.com/kn007/APlayerHandle)
 - Feel free to submit yours in [`Let me know!`](https://github.com/MoePlayer/APlayer/issues/79)
 
-## Who use APlayer?
+## Qui utilise Aplayer?
 
 - [Anotherhome](https://www.anotherhome.net/2717)
 - [站长之家](http://www.chinaz.com/15year/index.html)
@@ -116,20 +114,20 @@ var ap = new APlayer({
 - [BootCDN](http://www.bootcdn.cn/aplayer/)
 - [RawGit](https://rawgit.com/MoePlayer/APlayer/master/dist/APlayer.min.js)
 
-## Donate
+## Donations
 
 - [Donate via Paypal](https://www.paypal.me/DIYgod)
 - [Donate via WeChat Pay](https://ws4.sinaimg.cn/large/006tKfTcgy1fhu1uowywej307s07st8h.jpg)
 - [Donate via Alipay](https://ws4.sinaimg.cn/large/006tKfTcgy1fhu1vf4ih7j307s07sdfm.jpg)
-- Donate via Bitcoin: 13CwQLHzPYm2tewNMSJBeArbbRM5NSmCD1
+- Donations via Bitcoin: 13CwQLHzPYm2tewNMSJBeArbbRM5NSmCD1
 
-## Sponsor
+## Sponsors
 
-- The CDN service is sponsored by [又拍云](https://console.upyun.com/register/?invite=BkLZ2Xqob)
+- Le CDN est sponsorise par [又拍云](https://console.upyun.com/register/?invite=BkLZ2Xqob)
 
-## Author
+## Auteur
 
-**APlayer** © [DIYgod](https://github.com/DIYgod), Released under the [MIT](./LICENSE) License.<br>
-Authored and maintained by DIYgod with help from contributors ([list](https://github.com/DIYgod/APlayer/contributors)).
+**APlayer** © [DIYgod](https://github.com/DIYgod), Publie sous la licence [MIT](./LICENSE).<br>
+Cree et maintenu par DIYgod avec l'aide des contributeurs ([liste](https://github.com/DIYgod/APlayer/contributors)).
 
 > Blog [@Anotherhome](https://www.anotherhome.net) · GitHub [@DIYgod](https://github.com/DIYgod) · Twitter [@DIYgod](https://twitter.com/DIYgod) · Weibo [@DIYgod酱](http://weibo.com/anotherhome) · Telegram Channel [@awesomeDIYgod](https://t.me/awesomeDIYgod)
